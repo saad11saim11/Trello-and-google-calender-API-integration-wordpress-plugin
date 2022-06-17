@@ -1,0 +1,4 @@
+.setting .form-field{ display:flex; align-items:center; margin-bottom:20px; }
+.setting .form-field label{ width:20%; }
+.setting .form-field input{ width:50% !important; height:35px; }
+.setting .form-field textarea{ width:50% !important; height:170px; }
